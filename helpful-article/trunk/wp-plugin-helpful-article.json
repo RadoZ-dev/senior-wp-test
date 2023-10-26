@@ -1,0 +1,11 @@
+{
+  "name": "Helpful Article",
+  "slug": "helpful-article",
+  "download_url": "https://github.com/RadoZ-dev/senior-wp-test",
+  "version": "1.0.0",
+  "author": "Radoslav Zdravkovic",
+  "homepage": "https://github.com/RadoZ-dev/senior-wp-test",
+  "sections": {
+    "description": "<h4>Helpful Article</h4><p>Helpful Article is a Wordpress plugin that integrates a simple voting system with Wordpress articles. The voting system is displayed at the end of all single posts. The system has two options - Yes and No (buttons), and it allows visitors to express their opinion about the value of the article. Once the visitor votes, the voting results in average percentage and visitor's vote are displayed, and the voting buttons will remain inactive. The visitors are prevented from voting twice on the same article.</p>"
+  }
+}

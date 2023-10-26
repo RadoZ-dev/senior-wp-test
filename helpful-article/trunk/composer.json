@@ -1,0 +1,17 @@
+{
+  "name": "find-co/helpful-article",
+  "authors": [
+    {
+      "name": "Radoslav Zdravkovic",
+      "email": "zdravkovicradoslav@gmail.com"
+    }
+  ],
+  "require": {
+    "twig/twig": "^3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "HelpfulArticle\\": "src/"
+    }
+  }
+}
